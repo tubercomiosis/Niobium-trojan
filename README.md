@@ -5,3 +5,4 @@ Niobium.exe - my new malware (@SickdowsReal helped). I'm not responsible for any
 
 > [!NOTE]
 > This works best on Windows XP.
+> Password: NiobiumTrojan
